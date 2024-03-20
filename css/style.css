@@ -130,3 +130,6 @@ header {
     content: " 👍";
   }
 }
+.nav_links a {
+  color: blue;
+}
